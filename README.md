@@ -1,6 +1,6 @@
 ## Hi, I'm Jacky!
 
-I'm a full-stack software engineer excited about solving interesting engineering problems.
+I'm a full-stack software engineer excited about solving challenging engineering problems.
 
 ### How to reach me:
 
